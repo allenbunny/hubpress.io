@@ -5,6 +5,10 @@
 
 toc::[]
 
+https://allenbunny.github.io/hubpress.io/hubpress/
+https://allenbunny.github.io/hubpress.io/
+
+
 A free, open source tool you can use to build a blog using GitHub Pages and http://asciidoctor.org/docs/user-manual/[AsciiDoc].
 
 == What Is HubPress?
